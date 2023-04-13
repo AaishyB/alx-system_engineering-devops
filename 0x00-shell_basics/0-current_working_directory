@@ -1,6 +1,7 @@
 #!/bin/bash
-12-file_type
+wc -l 12-file_type
 pwd
+
 
 
 
