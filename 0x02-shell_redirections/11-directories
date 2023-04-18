@@ -1,2 +1,2 @@
 #!/bin/bash
-wc . d -1
+wc -l . -type d
